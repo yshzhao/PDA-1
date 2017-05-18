@@ -1,0 +1,6 @@
+c:\users\iulia\documents\visual studio 2017\Projects\ShellSortParallel\ShellSortParallel\bin\Debug\ShellSortParallel.exe.config
+c:\users\iulia\documents\visual studio 2017\Projects\ShellSortParallel\ShellSortParallel\bin\Debug\ShellSortParallel.exe
+c:\users\iulia\documents\visual studio 2017\Projects\ShellSortParallel\ShellSortParallel\bin\Debug\ShellSortParallel.pdb
+c:\users\iulia\documents\visual studio 2017\Projects\ShellSortParallel\ShellSortParallel\obj\Debug\ShellSortParallel.csprojResolveAssemblyReference.cache
+c:\users\iulia\documents\visual studio 2017\Projects\ShellSortParallel\ShellSortParallel\obj\Debug\ShellSortParallel.exe
+c:\users\iulia\documents\visual studio 2017\Projects\ShellSortParallel\ShellSortParallel\obj\Debug\ShellSortParallel.pdb
